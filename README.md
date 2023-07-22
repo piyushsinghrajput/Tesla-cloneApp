@@ -1,4 +1,4 @@
-# Tesla-clone
+# Tesla-cloneApp
 
 Languages are use to make this website
   html,css,javascript
