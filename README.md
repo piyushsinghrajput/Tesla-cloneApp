@@ -1,13 +1,13 @@
 # Tesla-cloneApp
 
-Languages are use to make this website
-  html,css,javascript
+Languages used in this website is
+ ** html,css,javascript**
 
 #Description
-  Tesla clone with html,css,javascript
+  Clone of tesla website as a project
 
 #🔴live demo 
-  https://teslaclonebynevil.netlify.app/
+  https://symphonious-dango-cfa5b1.netlify.app/
 
 #Version History
 1.0
